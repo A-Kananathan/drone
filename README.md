@@ -59,18 +59,7 @@ The goal is to get more hands-on experience with embedded systems and control th
 
 ## Progress Log
 
-### Before Week 1
-- Planned the project idea and overall structure
-- Researched drone components (IMU, motors and ESCs, communication modules)
-- Selected hardware components
-- Ordered required parts
-- Performed initial testing of some modules
-
-> [!NOTE]
-> Due to an interruption, development was paused.
-> Initial tests were done before creating this repository. For consistency and proper documentation,      > all tests will be repeated and documented starting from Week 1.
-
-### Week 1
+### Update 1
 - Created this repository
 - Structured and documented the project plan
 - Defined development stages and tasks
