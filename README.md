@@ -3,6 +3,15 @@
 This is a personal learning project.
 The goal is to get more hands-on experience with embedded systems and control theory.
 
+### Current Status
+
+The project is currently in the hardware integration phase.
+The repository currently focuses on documenting the system architecture,
+development roadmap and implementation plan.
+
+Source code will be added incrementally as individual modules are implemented
+and tested.
+
 ---
 
 ## Project Stages
